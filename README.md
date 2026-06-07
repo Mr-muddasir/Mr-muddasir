@@ -29,7 +29,7 @@ I'm a **6th semester BS Software Engineering student** at COMSATS University Isl
 I enjoy building full-stack projects and automation tools that solve real problems.
 
 - 🔭 Currently working on: **expanding my project portfolio**
-- 🌱 Learning: ** Flutter Development**
+- 🌱 Learning: **Flutter Development**
 - 💼 Looking for: **Internship in (Web Dev / Python / Scraping / Mobile Application Development)**
 - 🕷️ Freelance: **Available for web scraping & automation projects**
 - 🗣️ Languages: **English (IELTS Certified), Urdu**
@@ -73,14 +73,6 @@ I enjoy building full-stack projects and automation tools that solve real proble
 
 ---
 
-### 📚 [Online Course Platform (LMS)](https://github.com/Mr-muddasir/online-course-platform)
-> Full-stack Learning Management System using real DSA concepts internally
-- **Tech:** PHP, MySQL, Tailwind CSS, FPDF
-- Graph (BFS) for lecture unlocking · Max-Heap for leaderboard
-- Features: Course enrollment, MCQ quizzes, final exam, PDF certificates, progress tracking
-
----
-
 ### 🚛 [MyDispatch Logistics](https://github.com/Mr-muddasir/mydispatch-logistics)
 > Full-stack freight dispatch & logistics management platform
 - **Tech:** PHP, Laravel, MySQL, REST API
@@ -89,7 +81,7 @@ I enjoy building full-stack projects and automation tools that solve real proble
 
 ---
 
-## 🕷️ Available for Freelance
+## 📫 Let's Connect
 
 I write professional web scraping and automation scripts for clients worldwide.
 If you need data extracted from any website, feel free to reach out!
@@ -98,7 +90,3 @@ If you need data extracted from any website, feel free to reach out!
 💼 **[LinkedIn](https://www.linkedin.com/in/muhammad-mudasir-ahmad/)**
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mr-muddasir&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
